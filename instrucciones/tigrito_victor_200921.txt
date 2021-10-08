@@ -1,0 +1,33 @@
+Websites for search
+
+- Lonza https://www.lonza.com/careers/job-search
+- Roche https://www.roche.com/careers/jobs/jobsearch.htm?offset=1 
+- Datacareer https://www.datacareer.ch/ 
+- jobup https://www.jobup.ch/en/ 
+
+
+Criterios de filtros
+
+1. Keywords:
+* Data
+* Biotech
+* Clinical research
+* Biostatistics
+
+
+1. Region/Country
+* Basel
+* Switzerland
+* Baselland
+
+
+Resultado esperado
+
+
+Tabla de empleos indicando la siguiente información:
+
+1.  pagina fuente donde se publico el empleo
+2. el nombre del empleo
+3. descripción del empleo
+4. Lugar del empleo
+5. otra información relevante
